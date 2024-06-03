@@ -1,6 +1,7 @@
 # Image Processing Project
 
-A basic application used to maniplate images  
+A basic application used to maniplate images
+- JavaFX used
 
 ### Stuff Implemented
 - Gamma correction
